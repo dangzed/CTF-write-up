@@ -1,0 +1,1 @@
+Vào tab network chúng ta thấy trong `Headers` của `Response` có 1 cặp key-value là : `Header-RootMe-Admin:none`. Dùng Postman để thực hiện 1 GET request đến server, cung cấp thêm 1 header trong Request là `Header-RootMe-Admin:none`, ta sẽ nhận được password

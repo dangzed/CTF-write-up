@@ -1,0 +1,1 @@
+Theo như hướng dẫn của link đính kèm, có 1 cách dễ nhất để thử attack jwt, đó là đổi algo thành `none`, khi đó có thể xóa phần secret key đi vì nó không còn ảnh hưởng nữa, đổi payloads thành "username":"admin" rồi dùng Burp Suite gửi request với cookie là jwt được gen ra, ta có được password

@@ -1,0 +1,1 @@
+{"query":"mutation{createComment(userId:3,postId:1,nudeId:2,comment:\"abc\"){id,postId,nudeId,comment,nude{flag}}}"}

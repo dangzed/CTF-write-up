@@ -1,0 +1,1 @@
+Trang web thông báo `Wrong user-agent: you are not the "admin" browser!`, do đó ta chỉ cần đổi user-agent của mình thành admin, reload lại trang là được

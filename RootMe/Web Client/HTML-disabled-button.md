@@ -1,0 +1,1 @@
+Inspect element trang web, xóa cụm `disabled : ""` đi sẽ lấy được password

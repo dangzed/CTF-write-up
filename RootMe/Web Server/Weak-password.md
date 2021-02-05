@@ -1,0 +1,1 @@
+Do tiêu đề là `weak password`, thử với  cặp `username, password` là `admin,admin` thì lấy được cờ luôn
